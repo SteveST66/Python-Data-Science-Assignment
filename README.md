@@ -7,7 +7,7 @@ This repository contains the final assignment for the Python course. It includes
 
 ## Datasets & Credits
 The data used in this project were sourced from:
-* House Prices Dataset: Sourced from [Kaggle - House Prices: Advanced Regression Techniques]((https://www.kaggle.com/datasets/shadalishah/house-prices-advanced-regression-techniques?resource=download)).
+* House Prices Dataset: Sourced from [Kaggle - House Prices: Advanced Regression Techniques][((https://www.kaggle.com/datasets/shadalishah/house-prices-advanced-regression-techniques?resource=download)).
 * Movies Dataset: Sourced from[Kaggle - TMDB Movies Dataset 2023]  [(https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies?resource=download)).
 
 ## License
